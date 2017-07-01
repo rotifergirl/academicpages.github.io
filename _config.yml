@@ -14,7 +14,7 @@ description              : &description "PhD Student - genomics and evolution"
 url                      : https://rotifergirl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rotifergirl/rotifergirl.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "Bergen_Aurora.JPG"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Julie Blommaert"
-  avatar           : "profile.png"
+  avatar           : "me_byrichard.jpg"
   bio              : "PhD Student- Genomics and evolution"
   location         : "Austria"
   employer         : 

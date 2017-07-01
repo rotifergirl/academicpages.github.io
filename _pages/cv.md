@@ -30,8 +30,8 @@ Skills
 ======
 * Molecular Biology Lab skills
   * PCR and qPCR
-  * Cloning
-  * Microinjection
+  * Cloning
+  * Microinjection
   * In situ hybridisation
   * Karyology
 * Animal culture

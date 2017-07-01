@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* BSc (Hons I) Genetics, University of Otago, New Zealand, 2012
+* PhD, University of Innsbruck, Austria (current)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2012-February 2013: Summer Intern
+  * Laboratory for Evolution and Development, University of Otago
+  * Duties included: Molecular biology and bioinformatics
+  * Supervisors: Peter Dearden and Elizabeth Duncan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2011-Februray 2012: Summer Intern
+  * AgResearch, Invermay Campus
+  * Duties included: Bioinformatics and genomics
+  * Supervisor: John McEwan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Molecular Biology Lab skills
+  *PCR and qPCR
+  *Cloning
+  *Microinjection
+  *In situ hybridisation
+  *Karyology
+* Animal culture
+  * Brachionus plicatilis (rotifers)
+  * Nematostella vectensis (sea anemone)
+* Bioinformatics
+  *Phylogenetics
+  *de Novo genome assembly
+  *Comparative genomics
 
 Publications
 ======
@@ -56,4 +62,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2012-2013 Social Officer, [University of Otago Tramping Club](http://www.outc.org.nz)
+* 2011-2012 Membership Officer, [University of Otago Tramping Club](http://www.outc.org.nz)
+* 2011-2013 Events Volunteer, [University of Otago Students' Association](http://www.ousa.org.nz/)
+* 2008-2011 Volunteer, [Spirit of Adventure Trust](https://www.spiritofadventure.org.nz/)

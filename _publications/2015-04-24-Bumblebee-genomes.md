@@ -1,9 +1,9 @@
 ---
 title: "The genomes of two key bumblebee species with primitive eusocial organization"
 collection: publications
-permalink: /publication/2015-24-04-Bumblebee-genomes
+permalink: /publication/2015-04-24-Bumblebee-genomes.md
 excerpt: 'These two bumblebee genomes provide a foundation for post-genomic research on these key pollinators and insect societies. Overall, gene repertoires suggest that the route to advanced eusociality in bees was mediated by many small changes in many genes and processes, and not by notable expansion or depauperation.'
-date: 2015-24-04
+date: 2015-04-24
 venue: 'Genome Biology'
 paperurl: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0623-3'
 citation: 'Sadd, Ben M, et al. (2015). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

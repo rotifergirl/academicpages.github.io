@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "The genomes of two key bumblebee species with primitive eusocial organization"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2015-24-04-Bumblebee-genomes
+excerpt: 'These two bumblebee genomes provide a foundation for post-genomic research on these key pollinators and insect societies. Overall, gene repertoires suggest that the route to advanced eusociality in bees was mediated by many small changes in many genes and processes, and not by notable expansion or depauperation.'
+date: 2015-24-04
+venue: 'Genome Biology'
+paperurl: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0623-3'
+citation: 'Sadd, Ben M, et al. (2015). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://academicpages.github.io/files/Saddetal2015.pdf)
+
+Recommended citation: Sadd, Ben M, et al. (2015). "The genomes of two key bumblebee species with primitive eusocial organization" <i>Genome Biology</i>. 16(76).

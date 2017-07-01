@@ -6,7 +6,7 @@ excerpt: 'These two bumblebee genomes provide a foundation for post-genomic rese
 date: 2015-04-24
 venue: 'Genome Biology'
 paperurl: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0623-3'
-citation: 'Sadd, Ben M, et al. (2015). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Sadd, Ben M, et al. (2015). &quot;The genomes of two key bumblebee species with primitive eusocial organization.&quot; <i>Genome Biology</i>. 16(76).'
 ---
 
 

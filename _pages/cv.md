@@ -29,18 +29,18 @@ Work experience
 Skills
 ======
 * Molecular Biology Lab skills
-  *PCR and qPCR
-  *Cloning
-  *Microinjection
-  *In situ hybridisation
-  *Karyology
+  * PCR and qPCR
+  * Cloning
+  * Microinjection
+  * In situ hybridisation
+  * Karyology
 * Animal culture
-  * Brachionus plicatilis (rotifers)
-  * Nematostella vectensis (sea anemone)
+  * *Brachionus plicatilis* (rotifers)
+  * *Nematostella vectensis* (sea anemone)
 * Bioinformatics
-  *Phylogenetics
-  *de Novo genome assembly
-  *Comparative genomics
+  * Phylogenetics
+  * *de Novo* genome assembly
+  * Comparative genomics
 
 Publications
 ======

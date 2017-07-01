@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "BIOL112- Animal Biology"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Lab course"
+permalink: /teaching/2010-2012zool
+venue: "University of Otago, Department of Zoology"
+date: 2010-2012
+location: "Dunedin, New Zealand"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

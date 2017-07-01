@@ -6,5 +6,5 @@ excerpt: 'Here, we investigate the causes of large instraspecific genome size va
 date: 2017-05-01
 venue: ''
 paperurl: ''
-citation: 'Blommaert J., Riss S., Heacox-Lea B., Mark-Welch D., Stelzer CP. (in prep). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Blommaert J., Riss S., Heacox-Lea B., Mark-Welch D., Stelzer CP. (in prep). &quot;Genomic causes of large intraspecific genome size variation in a species of rotifer.&quot; <i>in prep</i>'
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Genome size variation and chromosomal architecture in Brachionus plicatilis spp."
+title: "Genome size variation and chromosomal architecture in *Brachionus plicatilis* spp."
 collection: talks
 type: "Poster"
 permalink: /talks/2015-rotifer-chromosomes

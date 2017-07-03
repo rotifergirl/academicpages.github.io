@@ -13,4 +13,5 @@ var addressPoints = [
     "Uppsala, Sweden",
     59.86121420000001,
     17.645838499999968
+  ]
   ];

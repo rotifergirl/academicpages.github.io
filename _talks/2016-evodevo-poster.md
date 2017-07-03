@@ -1,5 +1,5 @@
 ---
-title: "Anterior-posterior axis patterning in the rotifer, Brachionus plicatilis"
+title: "Anterior-posterior axis patterning in the rotifer, *Brachionus plicatilis*"
 collection: talks
 type: "Poster"
 permalink: /talks/2016-evodevo-poster

@@ -14,7 +14,7 @@ description              : &description "PhD Student - genomics and evolution"
 url                      : https://rotifergirl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rotifergirl/rotifergirl.github.io"
-teaser                   :  "Bergen_Aurora.JPG"
+#teaser                   :  "Bergen_Aurora.JPG"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:

@@ -2,9 +2,9 @@
 title: "Genome size variation and chromosomal architecture in Brachionus plicatilis spp."
 collection: talks
 type: "Poster"
-permalink: /talks/2013-rotifer-chromosomes
+permalink: /talks/2015-rotifer-chromosomes
 venue: "University of South Bohemia, České Budějovice"
-date: 2013-08-30
+date: 2015-08-30
 location: "České Budějovice, Czech Republic"
 ---
 

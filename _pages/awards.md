@@ -14,8 +14,8 @@ Conference Travel awards
 
 2017 [University of Innsbruck Needs-based scholarship](https://www.uibk.ac.at/studium/organisation/kosten-foerderungen/stipendien/foerderungsstipendien/index.html.en)
 
-Awards
-======
+Scholarships
+------
 2009-2012 Studylink Step up Scholarship
 
 2009 University of Otago Dux Scholarship

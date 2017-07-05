@@ -19,7 +19,7 @@ main:
     url: /cv/
     
   - title: "Awards"
-    url: /awards  
+    url: /awards/ 
     
   #- title: "Guide"
    # url: /markdown/

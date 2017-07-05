@@ -1,13 +1,12 @@
 ---
-permalink: /
+permalink: /awards
 title: "Awards and Scholarships"
 excerpt: "Awards and Scholarships"
 author_profile: true
 redirect_from: 
   - /awards/
-  - /awards.html
 ---
-{% include base_path %}
+
 
 Awards
 ======

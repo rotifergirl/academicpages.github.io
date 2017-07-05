@@ -6,9 +6,6 @@ redirect_from:
   - /awards/
 ---
 
-
-{% include base_path %}
-
 Awards
 ======
 Conference Travel awards

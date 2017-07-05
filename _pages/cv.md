@@ -23,6 +23,7 @@ Publications
 
 Awards and Scholarships
 ======  
+
 Conference Travel awards
 ------
 * 2017 [1669 Conference Travel Scholarship](https://www.uibk.ac.at/international-relations/austauschstudierende-outgoing/auslandsstipendien.html#Konferenzreisestipendium)

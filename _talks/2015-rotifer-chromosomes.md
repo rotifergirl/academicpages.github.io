@@ -3,7 +3,7 @@ title: "Genome size variation and chromosomal architecture in *Brachionus plicat
 collection: talks
 type: "Poster"
 permalink: /talks/2015-rotifer-chromosomes
-venue: "University of South Bohemia, České Budějovice"
+venue: "University of South Bohemia"
 date: 2015-08-30
 location: "České Budějovice, Czech Republic"
 ---

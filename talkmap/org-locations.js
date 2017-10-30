@@ -17,5 +17,11 @@ var addressPoints = [
   [
     "Mondsee, Austria",
     47.8492872,
-    13.341899699999999]
+    13.341899699999999
+  ],
+  [
+    "Innsbruck, Austria",
+    47.2692,
+    11.4041
+  ]
   ];

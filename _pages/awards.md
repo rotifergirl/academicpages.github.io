@@ -15,6 +15,7 @@ Conference Travel awards
 Scholarships
 ------
 June 2018-December 2018 [Doktoratsstipendium aus der Nachwuchsförderung](https://www.uibk.ac.at/ffq/forschungsfoerderung/2018/dok-stips-2018-1.tranche/ausschreibung.html)
+
 2009-2012 Studylink Step up Scholarship
 
 2009 University of Otago Dux Scholarship

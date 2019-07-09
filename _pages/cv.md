@@ -31,6 +31,7 @@ Conference Travel awards
 
 Scholarships
 ------
+* June 2018-June 2019 University of Innsbruck Doktoratsstipendium aus der Nachwuchsförderung
 * 2009-2012 Studylink Step up Scholarship
 * 2009 University of Otago Dux Scholarship
 

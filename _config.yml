@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Julie Blommaert"
 title_separator          : "-"
 name                     : &name "Julie Blommaert"
-description              : &description "PhD Student - genomics and evolution"
+description              : &description "Postdoc - genomics and evolution"
 url                      : https://rotifergirl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rotifergirl/rotifergirl.github.io"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Julie Blommaert"
   avatar           : "me_byrichard.jpg"
-  bio              : "PhD Student- Genomics and evolution"
-  location         : "Austria"
+  bio              : "Postdoc - Genomics and evolution"
+  location         : "Sweden"
   employer         : 
   googlescholar    : "https://scholar.google.at/citations?user=C_2dsLoAAAAJ&hl=en"
   email            : 

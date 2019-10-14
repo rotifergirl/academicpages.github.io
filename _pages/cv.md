@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BSc (Hons I) Genetics, University of Otago, New Zealand, 2012
-* PhD, University of Innsbruck, Austria (current)
+* PhD, University of Innsbruck, Austria, 2019
 
 Publications
 ======

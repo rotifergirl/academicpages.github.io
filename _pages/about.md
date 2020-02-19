@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first generation academic who was introduced to the nomadic lifestyle before I could even write full sentences. I've grown up in three different countries (Belgium, The USA, and New Zealand), and have since also lived in Norway and Austria. After finishing high school in sunny Nelson, NZ, I moved down to Dunedin and The University of Otago to pursue a Bachelor of Science majoring in Genetics. Along the way, I also studied some Psychology, Portuguese, Zoology, and Biochemistry. Then I moved to Norway for about a year and a half, then did my PhD in Austria, and now I'm in Sweden doing a Postdoc.
+I am a first generation academic who was introduced to the nomadic lifestyle before I could even write full sentences. I've grown up in three different countries (Belgium, The USA, and New Zealand), and have since also lived in Norway and Austria. After finishing high school in sunny Nelson, NZ, I moved down to Dunedin and The University of Otago to pursue a Bachelor of Science majoring in Genetics. Along the way, I also studied some Psychology, Portuguese, Zoology, and Biochemistry. Then I moved to Norway for about a year and a half, then did my PhD in Austria at the University of Innsbruck, and now I'm in Sweden doing a Postdoc.
 
 Research interests
 ======

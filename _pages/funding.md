@@ -3,7 +3,7 @@ title: "Funding and awards"
 permalink: /funding/
 author_profile: true
 redirect_from: 
-  - /funding
+  - /awards
 ---
 Fellowships
 ------

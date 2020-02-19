@@ -1,9 +1,9 @@
 ---
 title: "Invited Talks"
-permalink: /invited-talks/
+permalink: /invited_talks/
 author_profile: true
 redirect_from: 
-  - /invited-talks.html
+  - /invited_talks.html
 ---
 Invited Talks
 ------

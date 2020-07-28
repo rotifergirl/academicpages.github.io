@@ -8,3 +8,4 @@ venue: 'BMC Genomics'
 paperurl: 'https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5859-y'
 citation: 'Blommaert J., Riss S., Heacox-Lea B., Mark-Welch D., Stelzer CP. (2019). &quot;Small, but surprisingly repetitive genomes: Transposon expansion and not polyploidy has driven a doubling in genome size in a metazoan species complex .&quot; <i>BMC Genomics</i>'
 ---
+[Download paper here](https://github.com/rotifergirl/rotifergirl.github.io/blob/master/files/Blommaert_etal_2019.pdf)

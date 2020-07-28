@@ -10,6 +10,6 @@ citation: 'Sadd, Ben M, et al. (2015). &quot;The genomes of two key bumblebee sp
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/Saddetal2015.pdf)
+[Download paper here](https://github.com/rotifergirl/rotifergirl.github.io/blob/master/files/Saddetal2015.pdf)
 
 Recommended citation: Sadd, Ben M, et al. (2015). "The genomes of two key bumblebee species with primitive eusocial organization" <i>Genome Biology</i>. 16(76).

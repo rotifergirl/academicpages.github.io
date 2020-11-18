@@ -5,6 +5,10 @@ author_profile: true
 redirect_from: 
   - /funding.html
 ---
+Research Funding
+------
+2020  [Nilsson-Ehle Endowments](https://www.fysiografen.se/en/grants/grants-overview/forskningsstipendierresearch-grants/nilsson-ehle-donationerna/) for genome sequencing costs- value: 70,000SEK
+
 Fellowships
 ------
 2020 [Wenner-Gren Foundation postdoctoral fellowship](https://www.swgc.org/postdoktorsstipendier-sverige.aspx)

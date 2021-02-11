@@ -26,7 +26,7 @@ Funding and Awards
 ======  
 Research Funding
 ------
-2020  [Nilsson-Ehle Endowments](https://www.fysiografen.se/en/grants/grants-overview/forskningsstipendierresearch-grants/nilsson-ehle-donationerna/) for genome sequencing costs- value: 70,000SEK
+* 2020  [Nilsson-Ehle Endowments](https://www.fysiografen.se/en/grants/grants-overview/forskningsstipendierresearch-grants/nilsson-ehle-donationerna/) for genome sequencing costs- value: 70,000SEK
 
 Fellowships
 ------
